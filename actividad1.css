@@ -3,7 +3,7 @@ background: yellow;
 }
 .cuadrito{
 	position: absolute;
-	left: 1%;
+	left: 20%;
 	height: 90%;
 	top: 4%;
 	right: 1%;
@@ -12,7 +12,7 @@ background: yellow;
 	border: solid 3px black;
 }
 .titulo{
-	font-size: 39px;
+	font-size: 35px;
 	color: black;	
 	position: absolute;
 	top: 1%;
@@ -38,7 +38,7 @@ background: yellow;
 }
 .fotom1{
 	position: absolute;
-	top: 60%;
+	top: 53%;
 	left: 4%;
 	width: 15%;
 	height: 29%;
@@ -48,7 +48,7 @@ background: yellow;
 }
 .parrb{
 	position: absolute;
-	top: 60%;
+	top: 53%;
 	left: 21%;
 	width: 15%;
 	height: 29%;
@@ -58,7 +58,7 @@ background: yellow;
 .cuadrito2{
 	position: absolute;
 	top: 1%;
-	left: 58%;
+	left: 48%;
 	height: 56%;
 	width: 40%;
 	border: solid 3px;
@@ -67,7 +67,7 @@ background: yellow;
 .parrc{
 	position: absolute;
 	top: 3%;
-	left: 59%;
+	left: 49%;
 	height: 20%;
 	width: 38%;
 	border: solid 3px;
@@ -76,28 +76,18 @@ background: yellow;
 .fotom2{
 	position: absolute;
 	top: 26%;
-	left: 60%;
-	width: 15%;
-	height: 29%;
+	left: 55%;
+	width: 29%;
+	height: 30%;
 	background: url("fotom3.jpg");
 	background-size: cover;
 	border: solid 3px black;	
 }
-.fotom3{
-	position: absolute;
-	top: 26%;
-	left: 80%;
-	width: 15%;
-	height: 29%;
-	background: url("fotom4.jpg");
-	background-size: cover;
-	border: solid 3px black;	
-
-}
+	
 .parrd{
 	position: absolute;
 	top: 60%;
-	left: 58%;
+	left: 48%;
 	width: 20%;
 	height: 29%;
 	background: #F3F02E;
@@ -106,7 +96,7 @@ background: yellow;
 .fotom4{
 	position: absolute;
 	top: 60%;
-	left: 83%;
+	left: 73%;
 	width: 15%;
 	height: 29%;
 	background: url("fotom5.jpg");
